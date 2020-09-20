@@ -1,6 +1,6 @@
 #Control an RC car with Arduino
 
-This repository contains code to control an RC car using an Arduino with your regular keyboard. For more information head over to [this blog post](http://blog.indrek.io/articles/controlling-an-rc-car-with-arduino/) to see how to set up the electronic circuit.
+This repository contains the code for creating a self driving model RC Car. The RC car is controlled via an arduino board and uses image processing to collect the data and neural networks to predict the driving of car. The image is fed via an iphone places on top of the model RC Car.
 
 ##Requirements
 
